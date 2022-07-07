@@ -1,0 +1,355 @@
+.main {
+  height: 100%;
+  width: 100%;
+}
+
+body{background-color:orange;}
+
+
+.title {
+  color: black;
+   position: fixed;
+  top: 6rem;
+  right: 400px;
+  font-family: 'Press Start 2P', cursive;
+  margin-top: 15px;
+  }
+.home {
+  color: black;
+}
+.name {
+  color: black;
+  text-align: center;
+}
+.white { 
+  color: black; 
+}
+h2 {
+  font-family: 'Russo One', sans-serif;
+}
+.cite {
+  font-family: 'Russo One', sans-serif;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+ position: fixed;
+  top: position relative;
+}
+li:last-child {
+  border-right: none;
+}
+
+li {
+  float: left;
+  border-right:1px solid #bbb;
+}
+
+li a {
+   display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+  }
+
+/* Change the link color to #111 (black) on hover */
+li a:hover:not(.active) {
+  background-color: blue;
+}
+.active {
+  background-color: purple;
+}
+li {
+  float: left;
+  border-right:1px solid #bbb;
+}
+
+div.relative {
+  position: relative;
+  left: 30px;
+  border: 3px solid #73AD21;
+}
+.chicago {
+  height: 300px;
+  width: 320px;
+  object-position: center;
+  margin-top: -1%;
+  margin-left: 1%;
+  border-radius: 25px;
+}
+.skyline {
+  height: 300px;
+  width: 320px;
+   margin-top: -1%;
+  margin-left: 1%;
+  border-radius: 25px;
+  
+}
+.willis {
+  height: 300px;
+  width: 320px;
+  object-position: center;
+  margin-top: -1%;
+  margin-left: 1%;
+  border-radius: 25px;
+}
+.china {
+  height: 300px;
+  width: 320px;
+  object-position: center;
+  margin-top: -1%;
+  margin-left: 1%;
+  border-radius: 25px;
+}
+.trees {
+  height: 300px;
+  width: 320px;
+  object-position: center;
+  margin-top: 1%;
+  margin-left: 1%;
+  border-radius: 25px;
+}
+.mountains {
+  height: 300px;
+  width: 320px;
+  object-position: center;
+  margin-top: -1%;
+  margin-left: 1%;
+  border-radius: 25px;
+}
+.alpha {
+  height: 400px;
+  width: 370px;
+  object-position: center;
+  margin-top: 1%;
+  margin-left: 1%;
+  border-radius: 25px;
+}
+.alpha2 {
+  height: 400px;
+  width: 370px;
+  object-position: center;
+  margin-top: 1%;
+  margin-left: 1%;
+  border-radius: 25px;
+}
+.robotcode {
+  height: 400px;
+  width: 370px;
+  object-position: center;
+  margin-top: -20%;
+  margin-left: 1%;
+  border-radius: 25px;
+}
+.simon {
+  height: 300px;
+  width: 370px;
+  object-position: center;
+  margin-top: 1%;
+  margin-left: 1%;
+  border-radius: 25px;
+}
+.photo {
+  height: 300%;
+  width: 200px;
+  margin-top: 30%;
+  margin-left: 20%;
+	border: 4px solid black;
+  padding: 0px;
+  position: absolute;
+  }
+
+
+.contact {
+  color: black;
+  margin-top: -10%;
+  margin-left: 40%;
+  font-family: 'Permanent Marker', cursive;
+  }
+.send {
+    border: 5px outset black;
+  background-color: grey;    
+  text-align: center;
+  object-position: center;
+    height: 400px;
+  width: 600px;
+}
+
+.pcenter {
+  text-align:center;
+  color: black;
+  font-family: 'Permanent Marker', cursive;
+}
+
+
+.about {
+  margin-left: 15%;
+  color: black;
+}
+
+.gmail {
+  color: black;
+float: left;
+  padding: 10px;
+  margin-left: 60%;
+  margin-top: 20%;
+}
+
+p {
+  color: black;
+  margin-left: 40%;
+  }
+
+
+.aboutskills {
+ 
+  color: black;
+ 
+}
+.trip {
+  border: 5px outset black;
+  background-color: lightblue;    
+  text-align: center;
+  height: 700px;
+  width: 1100px;
+  object-position: center;
+  margin-left: 700px;
+}
+.dog {
+  border: 5px outset black;
+  background-color: lightblue;    
+  text-align: center;
+  height: 800px;
+  width: 1000px;
+  margin-left: 700px;
+  margin-top: 10px;
+}
+.robotics {
+  border: 5px outset black;
+  background-color: lightblue;    
+  text-align: center;
+  height: 500px;
+  width: 1200px;
+  margin-left: 700px;
+  margin-top: 10px;
+}
+.nav {
+  position: fixed;
+  margin-top: -50px;
+}
+.navcitations {
+  position: fixed;
+  margin-top: -40px;
+}
+.contact {
+  margin-top: 70px;
+  margin-left: 600px;
+}
+.pictures {
+  position: relative;
+  right: 575px;
+}
+.vexcode {
+    height: 150px;
+  width: 150px;
+  margin-left: 20px;
+}
+.cad {
+    height: 150px;
+  width: 230px;
+}
+.html {
+    height: 150px;
+  width: 150px;
+}
+.css {
+  height: 150px;
+  width: 150px;
+    margin-left: 50%;
+  margin-top: -80%;
+}
+.js {
+    height: 150px;
+  width: 300px;
+   margin-top: -80%;
+}
+.jquery {
+    height: 150px;
+  width: 150px;
+  margin-top: -80%;
+}
+.alphatitle {
+  height: 300px;
+  width: 270px;
+  object-position: center;
+   margin-left: 70%;
+  margin-top: 20%;
+  border-radius: 25px;
+}
+.send {
+  margin-top: 5%;
+  margin-left: 25%;
+  height: 200px;
+  width: 700px;
+}
+.label {
+  margin-top: 20%;
+}
+.mail {
+  margin-left: 45%;
+}
+.linkedin {
+  height: 150px;
+  width: 150px;
+  margin-top: 5%;
+  margin-left: 10%;
+}
+.ugotmail {
+  height: 180px;
+  width: 180px;
+  margin-top: 5%;
+  margin-left: 20%;
+}
+.snapchat {
+  height: 150px;
+  width: 150px;
+  margin-top: 5%;
+  margin-left: 20%;
+}
+.me {
+  border-radius: 25px;
+   margin-top: -30%;
+  margin-left: 20%;
+  height: 600px;
+  width: 470px;
+}
+.emailaddress {
+  margin-top: -10%;
+  margin-left: 70%;
+}
+.cite {
+  margin-left: 45%;
+  font-family: 'Archivo Black', sans-serif;
+}
+.w3 {
+  height: 360px;
+  width: 470px;
+  margin-top: 1%;
+  margin-left: 20%;
+}
+.formspree {
+  height: 150px;
+  width: 570px;
+  margin-top: 1%;
+  margin-left: 20%;
+}
+.stackoverflow {
+   height: 150px;
+  width: 570px;
+  margin-top: 10px;
+  margin-left: 20%;
+}

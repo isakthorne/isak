@@ -1,0 +1,157 @@
+.project { 
+  color: black; 
+  margin-left: 200px;
+  margin-top: 200px
+  text-align:center;
+  font-family: 'Permanent Marker', cursive;
+}
+body{background-color:orange;}
+p {
+  color:white;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+  position: fixed;
+  background-color: #333;
+ 
+}
+
+li {
+  float: left;
+  border-right:1px solid #bbb;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+div.relative {
+  position: relative;
+  left: 30px;
+  border: 3px solid #73AD21;
+}
+.navbar {
+  position: fixed;
+  margin-top: -50px;
+}
+.project {
+  margin-top: 70px;
+  margin-left: 550px;
+}
+.hireme {
+  border: 5px outset black;
+  background-color: lightblue;    
+  text-align: center;
+  height: 500px;
+  width: 1100px;
+  object-position: center;
+  margin-left: 100px;
+}
+.hire {
+  height: 300px;
+  width: 500px;
+  object-position: center;
+  margin-top: 1%;
+  margin-left: 1%;
+  border-radius: 25px;
+ 
+}
+.hire2 {
+  height: 300px;
+  width: 500px;
+  object-position: center;
+  margin-top: 1%;
+  margin-left: 1%;
+  border-radius: 25px;
+}
+.hireme {
+  border: 5px outset black
+  background-color: lightblue;    
+  text-align: center;
+  height: 500px;
+  width: 1100px;
+  object-position: center;
+  margin-left: 100px;
+}
+.hire {
+  height: 300px;
+  width: 500px;
+  object-position: center;
+  margin-top: 1%;
+  margin-left: 1%;
+  border-radius: 25px;
+ 
+}
+.hire2 {
+  height: 300px;
+  width: 500px;
+  object-position: center;
+  margin-top: 1%;
+  margin-left: 1%;
+  border-radius: 25px;
+}
+.cad {
+  height: 300px;
+  width: 500px;
+  object-position: center;
+  margin-top: 1%;
+  margin-left: 1%;
+  border-radius: 25px;
+}
+.bridge {
+  height: 300px;
+  width: 500px;
+  object-position: center;
+  margin-top: 1%;
+  margin-left: 1%;
+  border-radius: 25px;
+}
+.popsicle {
+  border: 5px outset black;
+  background-color: lightblue;    
+  text-align: center;
+  height: 500px;
+  width: 1100px;
+  object-position: center;
+  margin-left: 100px;
+  margin-top: 10px;
+}
+.robothand {
+  border: 5px outset black;
+  background-color: lightblue;    
+  text-align: center;
+  height: 700px;
+  width: 1100px;
+  object-position: center;
+  margin-left: 100px;
+  margin-top: 10px;
+}
+.hand {
+  height: 600px;
+  width: 500px;
+  object-position: center;
+  margin-top: 1%;
+  margin-left: 1%;
+  border-radius: 25px;
+}
+.spytroopers {
+  border: 5px outset black;
+  background-color: lightblue;    
+  text-align: center;
+  height: 1300px;
+  width: 1100px;
+  object-position: center;
+  margin-left: 100px;
+  margin-top: 10px;
+}
